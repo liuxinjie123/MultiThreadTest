@@ -1,4 +1,4 @@
-package com.dream.run;
+package com.dream.first.run;
 
 public class Test1 {
     public static void main(String[] args) {

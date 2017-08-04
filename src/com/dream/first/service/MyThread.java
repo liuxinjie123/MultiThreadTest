@@ -1,4 +1,4 @@
-package com.dream.service;
+package com.dream.first.service;
 
 public class MyThread extends Thread {
     @Override

@@ -1,6 +1,6 @@
-package com.dream.run;
+package com.dream.first.run;
 
-import com.dream.service.MyThread;
+import com.dream.first.service.MyThread;
 
 public class Run {
     public static void main(String[] args) {

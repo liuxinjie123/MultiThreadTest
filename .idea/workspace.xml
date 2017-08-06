@@ -2,30 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="321c6461-3f61-4ddd-acf8-52acb4b6f388" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/MyThreadRunThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/MyThreadRunThread2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/RunMyThread5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/RunMyThread52.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/RunMyThread6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/RunMyThread7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/RunRandomThread.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/Runnable1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/Runnable2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/run/StartSequenceTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyRunnable.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread3.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread5.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread6.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread7.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/service/RandomThread.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MultiThread/com/dream/run/Run.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MultiThread/com/dream/run/Test1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/MultiThread/com/dream/service/MyThread.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/count/CountOperate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/count/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/currentThread/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/currentThread/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/id/IdTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/interrupt/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/interrupt/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isalive/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isalive/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isalive2/CountOperate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isalive2/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isinterrupted/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/isinterrupted/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/login/ALogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/login/BLogin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/login/LoginRun.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/login/LoginServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/sameNum/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/sameNum/Run.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/sleep/MyThread.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/dream/first/sleep/Run.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/dream/run/Run.java" afterPath="$PROJECT_DIR$/src/com/dream/first/run/Run.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/dream/run/Test1.java" afterPath="$PROJECT_DIR$/src/com/dream/first/run/Test1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/dream/service/MyThread.java" afterPath="$PROJECT_DIR$/src/com/dream/first/service/MyThread.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,103 +35,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Test1.java">
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dream/first/interrupt/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="168">
+              <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Run.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Run.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThreadRunThread2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/MyThreadRunThread2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThread5.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/service/MyThread5.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThread6.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/service/MyThread6.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MyThread7.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/service/MyThread7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="84" lean-forward="false" selection-start-line="8" selection-start-column="84" selection-end-line="8" selection-end-column="84" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RunMyThread7.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/RunMyThread7.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Runnable2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Runnable2.java">
+        <entry file="file://$PROJECT_DIR$/src/com/dream/first/interrupt/Run.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
-              <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Runnable1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Runnable1.java">
+      <file leaf-file-name="MyThread.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/dream/first/isinterrupted/MyThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+            <state relative-caret-position="126">
+              <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RandomThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/dream/first/service/RandomThread.java">
+      <file leaf-file-name="Run.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/dream/first/isinterrupted/Run.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
               <folding />
             </state>
           </provider>
@@ -203,6 +139,30 @@
         <option value="$PROJECT_DIR$/src/com/dream/first/run/RunMyThread7.java" />
         <option value="$PROJECT_DIR$/src/com/dream/first/run/Runnable2.java" />
         <option value="$PROJECT_DIR$/src/com/dream/first/run/Runnable1.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/service/ALogin.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/service/BLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/run/LoginRun.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/controller/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/login/LoginServlet.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/login/LoginRun.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/login/BLogin.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/sameNum/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/sameNum/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/currentThread/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/currentThread/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/count/CountOperate.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/count/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isalive/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isalive/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isalive2/CountOperate.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isalive2/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/sleep/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/sleep/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/id/IdTest.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/interrupt/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/interrupt/Run.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isinterrupted/MyThread.java" />
+        <option value="$PROJECT_DIR$/src/com/dream/first/isinterrupted/Run.java" />
       </list>
     </option>
   </component>
@@ -214,7 +174,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1" />
-    <option name="width" value="1924" />
+    <option name="width" value="1921" />
     <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
@@ -232,8 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -265,7 +225,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dream" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
-              <item name="run" type="462c0819:PsiDirectoryNode" />
+              <item name="isinterrupted" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MultiThreadTest" type="b2602c69:ProjectViewProjectNode" />
@@ -273,14 +233,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="dream" type="462c0819:PsiDirectoryNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="sleep" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -302,15 +262,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RunMyThread7">
-    <configuration name="MyThreadRunThread2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Run (1)">
+    <configuration name="IdTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dream.first.run.*" />
+          <option name="PATTERN" value="com.dream.first.id.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dream.first.run.MyThreadRunThread2" />
+      <option name="MAIN_CLASS_NAME" value="com.dream.first.id.IdTest" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -322,14 +282,14 @@
       <module name="MultiThread" />
       <envs />
     </configuration>
-    <configuration name="RunMyThread5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Run (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dream.first.run.*" />
+          <option name="PATTERN" value="com.dream.first.isinterrupted.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dream.first.run.RunMyThread5" />
+      <option name="MAIN_CLASS_NAME" value="com.dream.first.isinterrupted.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -341,14 +301,14 @@
       <module name="MultiThread" />
       <envs />
     </configuration>
-    <configuration name="RunMyThread52" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Run (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dream.first.run.*" />
+          <option name="PATTERN" value="com.dream.first.isalive2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dream.first.run.RunMyThread52" />
+      <option name="MAIN_CLASS_NAME" value="com.dream.first.isalive2.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -360,14 +320,14 @@
       <module name="MultiThread" />
       <envs />
     </configuration>
-    <configuration name="RunMyThread6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Run (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dream.first.run.*" />
+          <option name="PATTERN" value="com.dream.first.sleep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dream.first.run.RunMyThread6" />
+      <option name="MAIN_CLASS_NAME" value="com.dream.first.sleep.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -379,14 +339,14 @@
       <module name="MultiThread" />
       <envs />
     </configuration>
-    <configuration name="RunMyThread7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Run" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.dream.first.run.*" />
+          <option name="PATTERN" value="com.dream.first.interrupt.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.dream.first.run.RunMyThread7" />
+      <option name="MAIN_CLASS_NAME" value="com.dream.first.interrupt.Run" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -479,19 +439,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.MyThreadRunThread2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.RunMyThread5" />
-      <item index="2" class="java.lang.String" itemvalue="Application.RunMyThread6" />
-      <item index="3" class="java.lang.String" itemvalue="Application.RunMyThread52" />
-      <item index="4" class="java.lang.String" itemvalue="Application.RunMyThread7" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Run (4)" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Run (5)" />
+      <item index="2" class="java.lang.String" itemvalue="Application.IdTest" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Run" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Run (1)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.RunMyThread7" />
-        <item index="1" class="java.lang.String" itemvalue="Application.RunMyThread6" />
-        <item index="2" class="java.lang.String" itemvalue="Application.RunMyThread52" />
-        <item index="3" class="java.lang.String" itemvalue="Application.RunMyThread5" />
-        <item index="4" class="java.lang.String" itemvalue="Application.MyThreadRunThread2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Run (1)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Run" />
+        <item index="2" class="java.lang.String" itemvalue="Application.IdTest" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Run (5)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Run (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -507,14 +467,17 @@
       <updated>1501855847962</updated>
       <workItem from="1501855850848" duration="1011000" />
       <workItem from="1501857879506" duration="4981000" />
+      <workItem from="1501862967765" duration="43000" />
+      <workItem from="1501939944240" duration="7731000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5992000" />
+    <option name="totallyTimeSpent" value="13766000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1" y="0" width="1924" height="1056" extended-state="0" />
+    <frame x="1" y="0" width="1921" height="1056" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -525,11 +488,11 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32908705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.40127388" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3301486" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2503937" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="BPMNPalette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -557,6 +520,38 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Runnable2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="16" lean-forward="false" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Runnable1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="39" lean-forward="false" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/service/RandomThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/RunMyThread7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/Test1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -581,19 +576,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="731" column="32" lean-forward="false" selection-start-line="731" selection-start-column="29" selection-end-line="731" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -618,7 +604,7 @@
         <state relative-caret-position="168">
           <caret line="8" column="24" lean-forward="true" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -652,8 +638,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="21" lean-forward="false" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
           <folding>
-            <element signature="e#116#117#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#116#117#0" expanded="false" />
+            <element signature="e#164#165#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -671,8 +657,8 @@
         <state relative-caret-position="0">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#203#204#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#203#204#0" expanded="false" />
+            <element signature="e#240#241#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -682,10 +668,10 @@
         <state relative-caret-position="42">
           <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding>
-            <element signature="e#137#138#0" expanded="true" />
-            <element signature="e#173#174#0" expanded="true" />
-            <element signature="e#212#213#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="false" />
+            <element signature="e#173#174#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+            <element signature="e#240#241#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -708,10 +694,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/MyThreadRunThread2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
+        <state relative-caret-position="147">
           <caret line="8" column="15" lean-forward="false" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -767,7 +753,208 @@
     <entry file="file://$PROJECT_DIR$/src/com/dream/first/run/RunMyThread7.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
-          <caret line="13" column="18" lean-forward="true" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/login/LoginServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/login/LoginRun.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/login/ALogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#195#196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/login/BLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#149#150#0" expanded="false" />
+            <element signature="e#195#196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/sameNum/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/sameNum/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="e#145#146#0" expanded="false" />
+            <element signature="e#238#239#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/currentThread/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="63" lean-forward="false" selection-start-line="9" selection-start-column="63" selection-end-line="9" selection-end-column="63" />
+          <folding>
+            <element signature="e#101#102#0" expanded="false" />
+            <element signature="e#172#173#0" expanded="false" />
+            <element signature="e#211#212#0" expanded="false" />
+            <element signature="e#283#284#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/currentThread/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/count/CountOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="42" lean-forward="true" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/count/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isalive/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="52" lean-forward="false" selection-start-line="5" selection-start-column="52" selection-end-line="5" selection-end-column="52" />
+          <folding>
+            <element signature="e#109#110#0" expanded="false" />
+            <element signature="e#168#169#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isalive/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isalive2/CountOperate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isalive2/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="55" lean-forward="false" selection-start-line="6" selection-start-column="55" selection-end-line="6" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/sleep/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/sleep/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/id/IdTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="76" lean-forward="false" selection-start-line="5" selection-start-column="76" selection-end-line="5" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/interrupt/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="9" lean-forward="true" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isinterrupted.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="2" column="26" lean-forward="false" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/interrupt/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="27" lean-forward="true" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_121/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="300" column="30" lean-forward="false" selection-start-line="300" selection-start-column="30" selection-end-line="300" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isinterrupted/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/dream/first/isinterrupted/Run.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="42" lean-forward="false" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
           <folding />
         </state>
       </provider>

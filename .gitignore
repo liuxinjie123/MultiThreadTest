@@ -12,8 +12,6 @@ dependency-reduced-pom.xml
 /scratch
 .gradle
 README.html
-.idea
-.idea/*
 *.iml
 *.ipr
 *.iws
@@ -24,3 +22,6 @@ README.html
 workbench.xmi
 logs
 *.log
+out/
+.idea
+.idea/
